@@ -21,7 +21,7 @@ Este projeto é uma aplicação web utilizando Streamlit para visualizar e manip
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone [https://github.com/seu_usuario/seu_repositorio.git](https://github.com/Carla-Ramos07/portifilo.carla.git)
    cd seu_repositorio
    ```
 
